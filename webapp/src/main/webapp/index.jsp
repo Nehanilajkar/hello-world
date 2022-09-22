@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2>Forked by Neha Nilajkar</h2>
+<h1> Hello, Welcome  !!! </h1>
+<h2>Neha Nilajkar</h2>
