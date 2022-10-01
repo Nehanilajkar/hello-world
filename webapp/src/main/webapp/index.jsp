@@ -1,2 +1,2 @@
-<h1>Welcome to Adity's Website</h1>
+<h1>Welcome to Aditya's Website from local</h1>
 <h2>Neha Nilajkar</h2>
