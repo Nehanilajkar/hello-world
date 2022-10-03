@@ -1,2 +1,2 @@
-<h1>Build through Jenkins and deploy through jenkins on ansible</h1>
+<h1>Build through Jenkins and deploy using ansible</h1>
 <h2>Neha Nilajkar</h2>
