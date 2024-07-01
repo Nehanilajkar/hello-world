@@ -1,10 +1,19 @@
 pipeline{
 agent any
 stages{
- stage('Git Checkout'){
-  steps{
+ stage('Git Checkout')
+  {
+  steps
+   {
    checkout scmGit(branches: [[name: '*/master']], extensions: [], userRemoteConfigs: [[url: 'https://github.com/Nehanilajkar/hello-world']])
+   }
   }
- }
+  stage('Build Repo')
+  {
+   steps
+   {
+     'mvn clean package'
+   }
+  }
 }
 }
